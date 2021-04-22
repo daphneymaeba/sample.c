@@ -1,1 +1,3 @@
-# sample.c
+#include <stdio.h>
+int main(){
+}
